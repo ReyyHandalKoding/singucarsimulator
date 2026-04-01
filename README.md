@@ -1,2 +1,0 @@
-# singucarsimulator
-Entertainment Store
